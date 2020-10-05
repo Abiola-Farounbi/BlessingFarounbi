@@ -1,0 +1,14 @@
+{
+  "name": "tailwindsetup",
+  "version": "1.0.0",
+  "description": "Basic tailwindCss setup",
+  "main": "index.js",
+  "scripts": {
+    "build":"tailwindcss build src/style.css -o public/style.css"
+  },
+  "author": "AbiolaEsther",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.8.10"
+  }
+}
