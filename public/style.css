@@ -48,6 +48,11 @@ height:400px;
   align-items:center;
 }
 
+.flutterImage{
+  width:100%;
+  height:100px;
+}
+
 
 @media only screen and (min-width:500px) and (max-width:900px){
   .headerImage{
@@ -81,7 +86,7 @@ height:400px;
       margin-right:20px;
     }
     .iconBox{
-      width:70%;
+      width:90%;
     }
 }
 /* style sheet predefined */
